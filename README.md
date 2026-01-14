@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋! I'm <a href="https://www.ivanpeshykov.tech/">Ivan</a> — a software developer from Ukraine, currently living and working in Kraków
+  Hi! I'm <a href="https://www.ivanpeshykov.tech/">Ivan</a> — a software developer from Ukraine, currently living and working in Kraków
 </h2>
 
 
